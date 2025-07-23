@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "Refund é uma plataforma web para solicitação de reembolsos e gestão de despesas de viagens corporativas.",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
